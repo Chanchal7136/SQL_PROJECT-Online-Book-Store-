@@ -54,6 +54,8 @@ Total Amount
 Primary and foreign keys ensure data consistency and clean relationships between tables.
 
 
+
+
 Key SQL Operations :
 
 The project includes SQL queries for:
@@ -96,6 +98,8 @@ Most frequently ordered book
 
 
 
+
+
 Business Insights Generated : 
 
 Which books sell the most
@@ -109,6 +113,8 @@ Stock availability after fulfilling orders
 Sales distribution across genres
 
 Customer spending patterns
+
+
 
 
 
