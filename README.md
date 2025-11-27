@@ -57,3 +57,14 @@ Primary and foreign keys ensure data consistency and clean relationships between
 
 
 
+
+
+The dataset was manually uploaded using CSV files for:
+
+Books
+
+Customers
+
+Orders
+
+This approach helped ensure correct column mapping and clean data import.
